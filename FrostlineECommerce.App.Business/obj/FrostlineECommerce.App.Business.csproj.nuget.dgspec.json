@@ -1,0 +1,201 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.Business/FrostlineECommerce.App.Business.csproj": {}
+  },
+  "projects": {
+    "/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.Business/FrostlineECommerce.App.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.Business/FrostlineECommerce.App.Business.csproj",
+        "projectName": "FrostlineECommerce.App.Business",
+        "projectPath": "/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.Business/FrostlineECommerce.App.Business.csproj",
+        "packagesPath": "/Users/macbook/.nuget/packages/",
+        "outputPath": "/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.Business/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/macbook/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.DataAccess/FrostlineECommerce.App.DataAccess.csproj": {
+                "projectPath": "/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.DataAccess/FrostlineECommerce.App.DataAccess.csproj"
+              },
+              "/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.Entities/FrostlineECommerce.App.Entitiy.csproj": {
+                "projectPath": "/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.Entities/FrostlineECommerce.App.Entitiy.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.DataAccess/FrostlineECommerce.App.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.DataAccess/FrostlineECommerce.App.DataAccess.csproj",
+        "projectName": "FrostlineECommerce.App.DataAccess",
+        "projectPath": "/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.DataAccess/FrostlineECommerce.App.DataAccess.csproj",
+        "packagesPath": "/Users/macbook/.nuget/packages/",
+        "outputPath": "/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.DataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/macbook/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.Entities/FrostlineECommerce.App.Entitiy.csproj": {
+                "projectPath": "/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.Entities/FrostlineECommerce.App.Entitiy.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.Entities/FrostlineECommerce.App.Entitiy.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.Entities/FrostlineECommerce.App.Entitiy.csproj",
+        "projectName": "FrostlineECommerce.App.Entitiy",
+        "projectPath": "/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.Entities/FrostlineECommerce.App.Entitiy.csproj",
+        "packagesPath": "/Users/macbook/.nuget/packages/",
+        "outputPath": "/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.Entities/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/macbook/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

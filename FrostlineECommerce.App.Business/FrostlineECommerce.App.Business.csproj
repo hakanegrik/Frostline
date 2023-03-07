@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FrostlineECommerce.App.Entities\FrostlineECommerce.App.Entitiy.csproj" />
+    <ProjectReference Include="..\FrostlineECommerce.App.DataAccess\FrostlineECommerce.App.DataAccess.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Abstract\" />
+    <None Remove="Concrete\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Abstract\" />
+    <Folder Include="Concrete\" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,15 @@
+/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.Business/bin/Debug/netcoreapp3.1/FrostlineECommerce.App.Business.deps.json
+/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.Business/bin/Debug/netcoreapp3.1/FrostlineECommerce.App.Business.dll
+/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.Business/bin/Debug/netcoreapp3.1/FrostlineECommerce.App.Business.pdb
+/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.Business/bin/Debug/netcoreapp3.1/FrostlineECommerce.App.DataAccess.dll
+/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.Business/bin/Debug/netcoreapp3.1/FrostlineECommerce.App.Entitiy.dll
+/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.Business/bin/Debug/netcoreapp3.1/FrostlineECommerce.App.Entitiy.pdb
+/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.Business/bin/Debug/netcoreapp3.1/FrostlineECommerce.App.DataAccess.pdb
+/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.Business/obj/Debug/netcoreapp3.1/FrostlineECommerce.App.Business.csproj.AssemblyReference.cache
+/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.Business/obj/Debug/netcoreapp3.1/FrostlineECommerce.App.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.Business/obj/Debug/netcoreapp3.1/FrostlineECommerce.App.Business.AssemblyInfoInputs.cache
+/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.Business/obj/Debug/netcoreapp3.1/FrostlineECommerce.App.Business.AssemblyInfo.cs
+/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.Business/obj/Debug/netcoreapp3.1/FrostlineECommerce.App.Business.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.Business/obj/Debug/netcoreapp3.1/FrostlineECommerce.App.Business.csproj.CopyComplete
+/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.Business/obj/Debug/netcoreapp3.1/FrostlineECommerce.App.Business.dll
+/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.Business/obj/Debug/netcoreapp3.1/FrostlineECommerce.App.Business.pdb

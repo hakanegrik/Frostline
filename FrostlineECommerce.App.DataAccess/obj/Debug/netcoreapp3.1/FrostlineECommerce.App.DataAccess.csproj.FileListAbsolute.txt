@@ -1,0 +1,16 @@
+/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.DataAccess/bin/Debug/netcoreapp3.1/FrostlineECommerce.App.DataAccess.deps.json
+/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.DataAccess/bin/Debug/netcoreapp3.1/FrostlineECommerce.App.DataAccess.runtimeconfig.json
+/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.DataAccess/bin/Debug/netcoreapp3.1/FrostlineECommerce.App.DataAccess.runtimeconfig.dev.json
+/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.DataAccess/bin/Debug/netcoreapp3.1/FrostlineECommerce.App.DataAccess.dll
+/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.DataAccess/bin/Debug/netcoreapp3.1/FrostlineECommerce.App.DataAccess.pdb
+/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.DataAccess/bin/Debug/netcoreapp3.1/FrostlineECommerce.App.Entitiy.dll
+/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.DataAccess/bin/Debug/netcoreapp3.1/FrostlineECommerce.App.Entitiy.pdb
+/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.DataAccess/obj/Debug/netcoreapp3.1/FrostlineECommerce.App.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.DataAccess/obj/Debug/netcoreapp3.1/FrostlineECommerce.App.DataAccess.AssemblyInfoInputs.cache
+/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.DataAccess/obj/Debug/netcoreapp3.1/FrostlineECommerce.App.DataAccess.AssemblyInfo.cs
+/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.DataAccess/obj/Debug/netcoreapp3.1/FrostlineECommerce.App.DataAccess.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.DataAccess/obj/Debug/netcoreapp3.1/FrostlineECommerce.App.DataAccess.csproj.CopyComplete
+/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.DataAccess/obj/Debug/netcoreapp3.1/FrostlineECommerce.App.DataAccess.dll
+/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.DataAccess/obj/Debug/netcoreapp3.1/FrostlineECommerce.App.DataAccess.pdb
+/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.DataAccess/obj/Debug/netcoreapp3.1/FrostlineECommerce.App.DataAccess.genruntimeconfig.cache
+/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.DataAccess/obj/Debug/netcoreapp3.1/FrostlineECommerce.App.DataAccess.csproj.AssemblyReference.cache

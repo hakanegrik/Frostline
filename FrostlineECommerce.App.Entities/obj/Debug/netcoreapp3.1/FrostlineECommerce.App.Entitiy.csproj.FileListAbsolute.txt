@@ -1,0 +1,10 @@
+/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.Entities/bin/Debug/netcoreapp3.1/FrostlineECommerce.App.Entitiy.deps.json
+/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.Entities/bin/Debug/netcoreapp3.1/FrostlineECommerce.App.Entitiy.dll
+/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.Entities/bin/Debug/netcoreapp3.1/FrostlineECommerce.App.Entitiy.pdb
+/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.Entities/obj/Debug/netcoreapp3.1/FrostlineECommerce.App.Entitiy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.Entities/obj/Debug/netcoreapp3.1/FrostlineECommerce.App.Entitiy.AssemblyInfoInputs.cache
+/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.Entities/obj/Debug/netcoreapp3.1/FrostlineECommerce.App.Entitiy.AssemblyInfo.cs
+/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.Entities/obj/Debug/netcoreapp3.1/FrostlineECommerce.App.Entitiy.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.Entities/obj/Debug/netcoreapp3.1/FrostlineECommerce.App.Entitiy.dll
+/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.Entities/obj/Debug/netcoreapp3.1/FrostlineECommerce.App.Entitiy.pdb
+/Users/macbook/Projects/FrostlineECommerce/FrostlineECommerce.App.Entities/obj/Debug/netcoreapp3.1/FrostlineECommerce.App.Entitiy.csproj.AssemblyReference.cache

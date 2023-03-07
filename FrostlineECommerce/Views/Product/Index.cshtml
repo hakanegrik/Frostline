@@ -1,0 +1,44 @@
+﻿@using FrostlineECommerce.Models
+@model ViewModel
+
+
+
+
+
+@foreach (var item in Model.Period)
+{<div class="btn btn-outline-primary">
+      
+            <a href="/Product/DiscountProducts/@item.Id" class="btn-btn-warning">@item.Name </a>
+    </div>
+}
+
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Name</th>
+            <th scope="col">CategoryId</th>
+            <th scope="col">IsActive</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Product)
+        {
+            <tr>
+                <th scope="row">@item.Id</th>
+                <td>@item.Name</td>
+                <td>@item.CategoryId</td>
+                <td>@item.IsActive</td>
+            </tr>
+        }
+
+    </tbody>
+</table>
+
+<a href="/Product/Discount/" class="btn-btn-warning">Discounts Transactions</a>
+
+
+
+
